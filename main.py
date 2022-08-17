@@ -9,6 +9,8 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     a = input()
     print("add = " + a)
+    c= input()
+    print("add = " + c)
 
 
 # Press the green button in the gutter to run the script.
