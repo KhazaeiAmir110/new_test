@@ -10,6 +10,8 @@ def print_hi(name):
     a = input()
     print("add = " + a)
     c = "add C"
+    d = input()
+    print("add = " + c)
 
 
 # Press the green button in the gutter to run the script.
