@@ -9,8 +9,15 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     a = input()
     print("add = " + a)
-    c= input()
+    c = input()
     print("add = " + c)
+
+
+def Profile():
+    name = input()
+    family = input()
+    user = input()
+    password = input()
 
 
 # Press the green button in the gutter to run the script.
